@@ -5,4 +5,4 @@
 - 🔭 I’m currently working on [Metro Cash & Carry Türkiye](https://www.metro-tr.com/)
 - 🤙 I'm playing drums about 7 years & Believer in Star Wars!
 - 👨‍💻 All of my projects are available at [https://github.com/korhansuren](https://github.com/korhansuren)
-- 📫 How to reach me: [e-mail](korhansuren@gmail.com) & [Website] (http://korhansuren.com/) & [LinkedIn] (https://www.linkedin.com/in/korhansuren/)
+- 📫 How to reach me: [e-mail](korhansuren@gmail.com) & [Website](http://korhansuren.com/) & [LinkedIn](https://www.linkedin.com/in/korhansuren/)
