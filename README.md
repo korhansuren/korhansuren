@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Korhan</h1>
-<h3 align="left">RPA Developer & Process Improvement Executive from Turkey</h3>
+<h3 align="left">Senior Business Development Executive & Scrum Master</h3>
 
 - :grey_exclamation:I can develop RPA processes and have robots do anything you don't want to deal with!
 - 🔭 I’m currently working on [Metro Cash & Carry Türkiye](https://www.metro-tr.com/)
